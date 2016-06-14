@@ -1,0 +1,13 @@
+h1{
+	font-weight: bolder;
+}
+h4{
+	font-weight:500;
+}
+ul > li{
+	list-style-type:square;
+}
+
+.bold{
+	font-weight:bolder;
+}
